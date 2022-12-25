@@ -166,9 +166,7 @@ def Audio():
 
 
 window = Tk()
-
-icon = PhotoImage(
-    file='youtube downloader.png')
+icon = PhotoImage(file='YT icon.png')
 window.title("YouTube Downloader")
 window.iconphoto(True, icon)
 window.resizable(False, False)
